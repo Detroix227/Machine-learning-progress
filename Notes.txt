@@ -1,0 +1,5 @@
+Day 1 Notes:
+- Learned about variables and data types.
+- Practiced user input and printing.
+- Understood basic math operations.
+- Created and looped through a list.
